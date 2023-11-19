@@ -1,0 +1,4 @@
+{"name":"shibi","age":21,"dob":"2002-11-12","salary":20000.00,"department":"DEVELOPERSTEAM"}
+{"name":"sreema","age":21,"dob":"2002-10-19","salary":30000.00,"department":"DEVELOPERSTEAM"}
+{"name":"raghul","age":22,"dob":"2001-11-07","salary":20000.00,"department":"AGILETEAM"}
+{"name":"raju","age":24,"dob":"1999-03-09","salary":50000.00,"department":"HRTEAM"}
